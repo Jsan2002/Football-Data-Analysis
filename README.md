@@ -44,9 +44,10 @@ Football-Data-Analysis/
 
 2. Navigate through different sections:
    - Project Info
-   - Data Analysis
-   - Interview Questions
-   - Visualizations
+   - Team Analysis
+   - Data Comparison
+   - Task Verification
+   - Detailed Analysis
 
 ## Dependencies
 
