@@ -63,7 +63,7 @@ raw_data, processed_data, manipulated_data = load_data()
 st.sidebar.header("Navigation")
 page = st.sidebar.radio(
     "Select a page",
-    ["Project Info", "Team Analysis", "Data Comparison", "Task Verification", "Interview Questions"]
+    ["Project Info", "Team Analysis", "Data Comparison", "Task Verification", "Detailed Analysis"]
 )
 
 if page == "Project Info":
@@ -373,7 +373,7 @@ elif page == "Task Verification":
                        (processed_data.shape[0] * processed_data.shape[1])) * 100
         st.metric("Data Completeness", f"{completeness:.1f}%")
 
-else:  # Interview Questions
+else:  # Detailed Analysis
     st.header("Detailed Analysis")
     
     # Data Understanding Section

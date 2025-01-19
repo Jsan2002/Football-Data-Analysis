@@ -44,10 +44,16 @@ Football-Data-Analysis/
 
 2. Navigate through different sections:
    - Project Info
+<<<<<<< HEAD
    - Team Analysis
    - Data Comparison
    - Task Verification
    - Detailed Analysis
+=======
+   - Data Analysis
+   - Detailed Analysis
+   - Visualizations
+>>>>>>> 9b1d2b8 (Update dashboard.py and README.md)
 
 ## Dependencies
 
@@ -81,6 +87,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 
+<<<<<<< HEAD
 
  2025 Sanket Jagtap • Built with Streamlit and Python
+=======
+2025 Sanket Jagtap • Built with Streamlit and Python
+
+>>>>>>> 4d783d9 (Update dashboard.py and README.md)
 

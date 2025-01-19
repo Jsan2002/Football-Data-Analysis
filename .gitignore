@@ -50,3 +50,14 @@ ENV/
 # System files
 .DS_Store
 Thumbs.db
+
+# Docker
+.docker/
+docker-compose.override.yml
+.env.docker
+
+# Build artifacts
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
