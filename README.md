@@ -1,5 +1,7 @@
 # Football Data Analysis Dashboard
 
+https://github.com/user-attachments/assets/9aa7e654-1fb0-4fec-9684-165a0152f6f1
+
 A comprehensive football data analysis tool that processes match data and provides insights through an interactive Streamlit dashboard.
 
 ## Features
@@ -53,7 +55,6 @@ Football-Data-Analysis/
    - Data Analysis
    - Detailed Analysis
    - Visualizations
->>>>>>> 9b1d2b8 (Update dashboard.py and README.md)
 
 ## Dependencies
 
@@ -70,7 +71,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Contact
 
@@ -85,13 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </div>
-
-
-<<<<<<< HEAD
-
- 2025 Sanket Jagtap • Built with Streamlit and Python
-=======
-2025 Sanket Jagtap • Built with Streamlit and Python
-
->>>>>>> 4d783d9 (Update dashboard.py and README.md)
 
